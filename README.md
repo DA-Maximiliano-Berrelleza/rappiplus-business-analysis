@@ -25,4 +25,7 @@ El caso estudia el desempeño de RappiPlus, un servicio de suscripción del ecos
 
 ## Datos y evidencia
 
-El caso utiliza archivos CSV de pedidos, catálogo, marketing y experimento, además de tablas de eventos, usuarios y actividad en PostgreSQL. El [notebook del proyecto](./RappiPlus_Portafolio.ipynb) reúne el código, las consultas y las tablas agregadas. Para recalcular el embudo y la retención se requiere acceso autorizado a PostgreSQL.
+El caso utiliza archivos CSV de pedidos, catálogo, marketing y experimento, además de tablas de eventos, usuarios y actividad en PostgreSQL.
+
+- [Notebook del proyecto](./RappiPlus_Portafolio.ipynb). Incluye el código, las consultas y las tablas agregadas. Para recalcular el embudo y la retención se requiere acceso autorizado a PostgreSQL.
+- [Informe de Power BI en PDF](./RappiPlus_Dashboard.pdf). Presenta los indicadores de ventas y rentabilidad.
