@@ -1,6 +1,6 @@
 # RappiPlus | Rentabilidad, conversión y retención
 
-Proyecto formativo de análisis de datos realizado por **Maximiliano Berrelleza** en TripleTen.
+Caso de estudio de análisis de datos sobre el desempeño de un servicio de suscripción.
 
 ## Contexto y problema
 
@@ -25,4 +25,4 @@ El caso estudia el desempeño de RappiPlus, un servicio de suscripción del ecos
 
 ## Datos y evidencia
 
-TripleTen proporcionó los CSV de pedidos, catálogo, marketing y experimento, además de las tablas de eventos, usuarios y actividad en PostgreSQL. El notebook del proyecto, `RappiPlus_Portafolio.ipynb`, reúne el código, las consultas y las tablas agregadas. Para recalcular el embudo y la retención se requiere acceso autorizado a PostgreSQL.
+El caso utiliza archivos CSV de pedidos, catálogo, marketing y experimento, además de tablas de eventos, usuarios y actividad en PostgreSQL. El [notebook del proyecto](./RappiPlus_Portafolio.ipynb) reúne el código, las consultas y las tablas agregadas. Para recalcular el embudo y la retención se requiere acceso autorizado a PostgreSQL.
