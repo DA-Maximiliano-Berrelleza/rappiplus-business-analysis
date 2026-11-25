@@ -1,5 +1,7 @@
 # RappiPlus | Rentabilidad, conversión y retención
 
+[English](README.en.md)
+
 Caso de estudio de análisis de datos sobre el desempeño de un servicio de suscripción.
 
 ## Contexto y problema
